@@ -1,9 +1,6 @@
-# PSR - Practical Assigment 1
+
 Collaborative Whiteboard
 
-# Members
-- 113977: Rodrigo Bio
-- 129359: Nihal Fateen
 
 # Project Description
 This project is a real-time collaborative whiteboard application built in Python, enabling multiple users to interact on a shared canvas simultaneously. Users can draw with various tools, select colors, undo actions, save Images and save the session. All drawing events are synchronized across clients in real time using Zenoh, and persistently logged using MCAP, allowing sessions to be replayed or analyzed. The application is designed for robust, cross-platform use, providing a seamless collaborative experience for education, brainstorming, and creative teamwork.
